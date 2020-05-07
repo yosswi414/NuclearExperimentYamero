@@ -1,0 +1,2 @@
+# NuclearExperimentYamero
+直近の地震を近くの大学に因縁づけるタグをツイートします。
